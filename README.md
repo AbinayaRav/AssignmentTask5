@@ -3,20 +3,20 @@ README.md
 12/04/2020**  
 
 **##TASK FIVE : ARRAYS AND STRING:**    
-•	Write a JAVA program that takes given String of words and return the length of the shortest word.  
-•	Write a JAVA program that gives sum of all the values of array except the highest and lowest values.  
-•	Write a JAVA method to remove all the spaces from the String and return the resultant.  
-•	Write a JAVA method to return a boolean true if the string doesn’t have repeating letters and consecutive or nonconsecutive i.e. all the letters of the string be unique (isogram) else false.  
-o	Write a JAVA program that reverse the words of a sentence.  
-	For eg, => “Be Happy and Stay Motivated” => “eB yppah dna yatS detavitoM”.  
-•	Write a JAVA program that takes out the even from the odds and odd from the list of even numbers,  
-For eg, => {23,25,75,87,47,1,91,51,2} //Output for this case =>2  
-•	=> {22,44,64,76,98,12,43,54,90} // Output for this case =>43.  
-•	Write a JAVA program that swaps the case of the alphabets of the string,  
-o	For eg, => “heLLo WOrLd” => “HEllO woRlD”.  
-•	Write a JAVA program that gives boolean values; true, if the string has balanced braces and false, if the string has unbalanced braces:  
-•	For eg, => “({{)}[}]()” //output => true  
-•	//valid parenthesis  
+1.	Write a JAVA program that takes given String of words and return the length of the shortest word.  
+2.	Write a JAVA program that gives sum of all the values of array except the highest and lowest values.  
+3.	Write a JAVA method to remove all the spaces from the String and return the resultant.  
+4.	Write a JAVA method to return a boolean true if the string doesn’t have repeating letters and consecutive or nonconsecutive i.e. all the letters of the string be unique (isogram)      else false.  
+5.	Write a JAVA program that reverse the words of a sentence.  
+	For eg, => “Be Happy and Stay Motivated” => “eB yppah dna yatS detavitoM”.  
+6.	Write a JAVA program that takes out the even from the odds and odd from the list of even numbers,  
+   For eg, => {23,25,75,87,47,1,91,51,2} //Output for this case =>2  
+	=> {22,44,64,76,98,12,43,54,90} // Output for this case =>43.  
+7. Write a JAVA program that swaps the case of the alphabets of the string,  
+	For eg, => “heLLo WOrLd” => “HEllO woRlD”.  
+8. Write a JAVA program that gives boolean values; true, if the string has balanced braces and false, if the string has unbalanced braces:  
+   For eg, => “({{)}[}]()” //output => true  
+   //valid parenthesis  
 •	{{( [ ) ] }} => “[})(” //output => false.
 
    
