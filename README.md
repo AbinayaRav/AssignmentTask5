@@ -2,7 +2,7 @@
 README.md  
 12/04/2020**  
 
-**##TASK FIVE : ARRAYS AND STRING:**    
+**##TASK FIVE : ARRAYS AND STRINGS:**    
 1.	Write a JAVA program that takes given String of words and return the length of the shortest word.  
 2.	Write a JAVA program that gives sum of all the values of array except the highest and lowest values.  
 3.	Write a JAVA method to remove all the spaces from the String and return the resultant.  
